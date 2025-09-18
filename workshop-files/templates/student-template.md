@@ -1,12 +1,12 @@
 # Student Information
 
-**Name:** [Your Name Here]
+**Name:** [Saurya Bhatt]
 
-**Email:** [Your Email Here]
+**Email:** [bhattsaurya17@gmail.com]
 
-**GitHub Username:** [Your GitHub Username]
+**GitHub Username:** [bhattsaurya16]
 
-**Experience Level:** [Beginner/Intermediate/Advanced]
+**Experience Level:** [Beginner]
 
 ## About Me
 
